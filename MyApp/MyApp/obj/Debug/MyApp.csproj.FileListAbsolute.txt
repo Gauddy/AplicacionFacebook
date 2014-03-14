@@ -1,0 +1,7 @@
+C:\Users\tic255\Desktop\MyApp\MyApp\bin\MyApp.dll
+C:\Users\tic255\Desktop\MyApp\MyApp\bin\MyApp.pdb
+C:\Users\tic255\Desktop\MyApp\MyApp\bin\Facebook.dll
+C:\Users\tic255\Desktop\MyApp\MyApp\bin\Facebook.xml
+C:\Users\tic255\Desktop\MyApp\MyApp\obj\Debug\MyApp.csprojResolveAssemblyReference.cache
+C:\Users\tic255\Desktop\MyApp\MyApp\obj\Debug\MyApp.dll
+C:\Users\tic255\Desktop\MyApp\MyApp\obj\Debug\MyApp.pdb
